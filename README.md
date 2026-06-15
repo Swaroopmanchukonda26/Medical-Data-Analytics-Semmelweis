@@ -1,4 +1,4 @@
-Historical Medical Data Analytics: The Semmelweis Handwashing Effect
+# Historical Medical Data Analytics: The Semmelweis Handwashing Effect
 
 A historical and statistical data analytics project reconstructing the clinical discoveries of Dr. Ignaz Semmelweis at the Vienna General Hospital (1841–1849) to prove the impact of antiseptic interventions using Python, Seaborn, and SciPy.
 
